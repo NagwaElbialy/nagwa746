@@ -1,0 +1,131 @@
+body{margin: 0px;padding: 0px;}
+
+
+
+header{
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0,0.7)) , url(../images/bg.jpg);
+    background-position:center;
+    background-size: cover;}
+
+    .navbar img{height:90px; width:180px;}
+    .navbar ul li a{  color: white;
+        text-decoration: none;}
+        .navbar ul li a:hover{color:rgb(224, 177, 89);}
+        .navbar ul li{margin-right: 40px;}
+        h6{color: white;float: right;margin-top: 200px;}
+        .info{margin-top: 280px;}
+        .info .btn{margin-left: 100px;}
+        .info h3{color: white;}
+
+       .info .btn{margin-top: 5px;text-align: center;
+            border: solid 2px #bb967b;
+            margin-right: px;
+            padding: 7px 15px;
+            border-radius: 10px;
+            color: rgb(226, 176, 83);
+            text-decoration: none;
+          
+
+
+        }
+       .info .btn:hover{
+        
+          color: white;
+          background-color: rgb(224, 177, 89);
+          
+
+      }
+ 
+      #shop{margin-top: 40px;}
+      .sho{margin-top: 20px;}
+      .sho img{width: 100%;height: 360px;}
+      #shop h3{text-align: center;color: blue;margin-top: px;}
+      .sho h4{text-align: center;margin-top: 10px;}
+      .sho h5{text-align: center;color: rgb(233, 27, 27);margin-top: 0px;}
+     
+
+
+      #pro img{width: 100%;}
+      #pro{background-color: black;padding-top: 5px;margin-top: 10px;}
+      #pro .h{margin-top: 50px;color:white;}
+      .pro h4{color: white;margin-top: 260px;}
+      .pro h5{margin-left: px;color: white;}
+    
+.pro{text-align: center;}
+      .pro .btn{margin-top: 5px;text-align: center;
+        border: solid 2px #bb967b;
+        margin-left: px;
+        padding: 7px 15px;
+        border-radius: 10px;
+        color: rgb(226, 176, 83);
+        text-decoration: none;
+      
+
+
+    }
+   .pro .btn:hover{
+    
+      color: white;
+      background-color: rgb(224, 177, 89);}
+
+
+      #Accessories {margin-top: 40px;}
+      #Accessories h3{text-align: center;margin-top: 0px;color:blue;}
+      .acc{margin-top: 20px;}
+      .acc img{width: 100%;height: 400px;}
+      .acc h4{text-align: center;}
+      .acc .btn {color: black;text-align: center;font-weight: bold;}
+      .acc h4{margin-top: px;}
+      .acc .btn:hover{color:rgb(224, 177, 89);} 
+
+      footer{height: 200px;
+        padding: 50px 100px;
+        background-color: black;
+    }
+
+    footer p{
+        color: #fff;
+        text-align: center;
+        margin-top: 30px;
+    }
+
+   .footer-nav{
+       list-style: none;
+   }
+
+   .footer-nav li{
+    display: inline-block;
+    margin-left: 10px;
+
+}
+
+.footer-nav li a{
+    color: white;
+    text-decoration: none;
+
+}
+
+.footer-nav li a:hover{
+    color: orange}
+
+.social-nav{
+    list-style: none;
+    float: right;
+}
+.social-nav li{
+ display: inline-block;
+ margin-left: 10px;
+
+}
+.social-nav li a{
+ color: white;
+ text-decoration: none;
+}
+.social-nav li a:hover{
+ color: orange;
+ 
+
+}
+    
+      
